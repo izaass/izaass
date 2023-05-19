@@ -28,9 +28,9 @@
 <h2 align="center"></h2>
   <!--<img src="https://komarev.com/ghpvc/?username=izaass&style=flat-square&color=blue" alt=""/>-->
 <br>
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
+<h2 align="center"></h2>
   <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2IwY2YyYTVmZGY4MzJkZGM1NTU5NjgwNmVmMjQxMTczY2YxYjVjNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/xULW8DIleKy1iKLZrq/giphy.gif" width="600" height="auto"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2IwY2YyYTVmZGY4MzJkZGM1NTU5NjgwNmVmMjQxMTczY2YxYjVjNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/xULW8DIleKy1iKLZrq/giphy.gif" width="300" height="auto"/>
 </div>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <div align=center>
