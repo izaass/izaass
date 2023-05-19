@@ -25,9 +25,9 @@
 
 </div>
 
-<h2 align="center"></h2>
-  <!--<img src="https://komarev.com/ghpvc/?username=izaass&style=flat-square&color=blue" alt=""/>-->
-<br>
+  <!--<h2 align="center"></h2>
+<img src="https://komarev.com/ghpvc/?username=izaass&style=flat-square&color=blue" alt=""/>
+<br>-->
 <h2 align="center"></h2>
   <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2IwY2YyYTVmZGY4MzJkZGM1NTU5NjgwNmVmMjQxMTczY2YxYjVjNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/xULW8DIleKy1iKLZrq/giphy.gif" width="300" height="auto"/>
@@ -42,7 +42,7 @@
   </a>
 </div>
 
-<h2 align="center">### :hammer_and_wrench: Languages and Tools :hammer_and_wrench: ###</h2>
+<h2 align="center">:hammer_and_wrench: Languages and Tools :hammer_and_wrench:</h2>
 
   
 
