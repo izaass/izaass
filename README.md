@@ -53,20 +53,16 @@
      <img src="./svg/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
      <img src="./svg/php-original.svg" title="Php" **alt="Php" width="40" height="40"/>&nbsp;
      <img src="./svg/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>&nbsp;
-     <img src="./svg/trello-plain-wordmark.svg" title="Trello" **alt="Trello" width="40" height="40"/>&nbsp;
      <img src="./svg/ubuntu-plain-wordmark.svg" title="Ubuntu" **alt="Ubuntu" width="40" height="40"/>&nbsp;
      <img src="./svg/vim-original.svg" title="Vim" **alt="Vim" width="40" height="40"/>&nbsp;
-     <img src="./svg/visualstudio-plain-wordmark.svg" title="VisualStudio" **alt="VisualStudio" width="100" height="100"/>&nbsp;
      <img src="./svg/octocat.svg" title="Github" **alt="Github" width="40" height="40"/>&nbsp;
      <img src="./svg/jquery-original-wordmark.svg" title="Jquery" **alt="Jquery" width="40" height="40"/>&nbsp;
      <img src="./svg/bootstrap-original-wordmark.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>&nbsp;
      <img src="./svg/canva-original.svg" title="Canva" **alt="Canva" width="40" height="40"/>&nbsp;
-     <img src="./svg/codepen-logo.svg" title="Codepen" **alt="Codepen" width="40" height="40"/>&nbsp;
-     <img src="./svg/dot-net-original-wordmark.svg" title="dotNet" **alt="dotNet" width="40" height="40"/>&nbsp;
 
 </div>
 <a href="#" target="_blank">
-  <img src="svg/donpv.svg" width="1200" alt="donpv-official" />
+  <img src="svg/izaass.svg" width="1200" alt="izaass_gitHub" />
 </a>
 <!--
 **izaass/izaass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
