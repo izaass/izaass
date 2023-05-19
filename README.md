@@ -20,20 +20,24 @@
 </a>
 <a href="https://instagram.com/izaass.anons">
      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-</a>
+</a><br>
+<img src="https://komarev.com/ghpvc/?username=izaass&style=flat-square&color=blue" alt="izass-profile-view"/>
+
 </div>
 
 <h2 align="center"></h2>
   <!--<img src="https://komarev.com/ghpvc/?username=izaass&style=flat-square&color=blue" alt=""/>-->
 <br>
+<h2 align="center">🔥 GitHub Stats 🔥</h2>
   <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="auto"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2IwY2YyYTVmZGY4MzJkZGM1NTU5NjgwNmVmMjQxMTczY2YxYjVjNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/xULW8DIleKy1iKLZrq/giphy.gif" width="600" height="auto"/>
 </div>
+<h2 align="center">🔥 GitHub Stats 🔥</h2>
 <div align=center>
-  <a href="#" title="Donpv">
+  <a href="#" title="Izaass">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izaass&hide=c%23,powershell,Mathematica,Php,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
-  <a href="#" title="Donpv">
+  <a href="#" title="Izaass">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=izaass&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
@@ -49,7 +53,6 @@
      <img src="./svg/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
      <img src="./svg/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
      <img src="./svg/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-     <img src="./svg/nodejs-plain-wordmark.svg" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;
      <img src="./svg/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
      <img src="./svg/php-original.svg" title="Php" **alt="Php" width="40" height="40"/>&nbsp;
      <img src="./svg/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>&nbsp;
@@ -61,9 +64,9 @@
      <img src="./svg/canva-original.svg" title="Canva" **alt="Canva" width="40" height="40"/>&nbsp;
 
 </div>
-<a href="#" target="_blank">
+<!-- <a href="#" target="_blank">
   <img src="svg/izaass.svg" width="1200" alt="izaass_gitHub" />
-</a>
+</a> -->
 <!--
 **izaass/izaass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
