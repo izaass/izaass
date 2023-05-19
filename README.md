@@ -42,7 +42,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
      <img src="./svg/php-original.svg" title="Php" **alt="Php" width="40" height="40"/>
      <img src="./svg/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
-     <img src="./svg/trello-plain-wordmark.svg" title="Trello" **alt="Trello" width="40" height="40"/>
+     <img src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg" title="Trello" **alt="Trello" width="40" height="40"/>
      <img src="./svg/ubuntu-plain-wordmark.svg" title="Ubuntu" **alt="Ubuntu" width="40" height="40"/>
      <img src="./svg/vim-original.svg" title="Vim" **alt="Vim" width="40" height="40"/>
      <img src="./svg/visualstudio-plain-wordmark.svg" title="VisualStudio" **alt="VisualStudio" width="40" height="40"/>
