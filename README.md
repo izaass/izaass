@@ -45,11 +45,11 @@
 <div align="center">
      <img src="./svg/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
      <img src="./svg/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-     <img src="./svg/CSS3_logo_and_wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+     <img src="./svg/css3-original-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
      <img src="./svg/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
      <img src="./svg/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
      <img src="./svg/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-     <img src="./svg/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;
+     <img src="./svg/nodejs-plain-wordmark.svg" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;
      <img src="./svg/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
      <img src="./svg/php-original.svg" title="Php" **alt="Php" width="40" height="40"/>&nbsp;
      <img src="./svg/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>&nbsp;
